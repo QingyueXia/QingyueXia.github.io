@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://qingyuexia.github.io/sitemap.xml
